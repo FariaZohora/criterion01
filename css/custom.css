@@ -2,6 +2,10 @@
 	font-family: 'Lato', sans-serif;
 	color:#39312e;
 }
+.par{
+	text-allign:center;
+	margin:10%;
+}
 body{
 	
 	background-color:#f0f0f052;
